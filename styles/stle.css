@@ -1,0 +1,19 @@
+.popup-content:has(.submitted-message) {
+  padding: 52px 72px;
+}
+
+.body:has(.podcast) .top-section {
+  display: none !important;
+}
+
+.body:has(.events-overview) .top-section {
+  display: none !important;
+}
+
+.body:has(.events-overview) .top-section {
+  display: none !important;
+}
+
+.body:has(.events-overview-single) .top-section {
+  display: none !important;
+}/*# sourceMappingURL=stle.css.map */
